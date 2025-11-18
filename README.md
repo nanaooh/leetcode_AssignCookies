@@ -28,5 +28,5 @@ It works because it ensures that no large cookie is going to be wasted on a chil
 
 
 **COMPLEXITY:**
-Time: O(n log n + m log m)– since we're sorting two arrays (g and s), and the pointers only pass through each array once
-Space: O(1) – we only use a few variables (i, j, satisfied) 
+Time: O(n log n + m log m)– since we're sorting two arrays (g and s), and the pointers only pass through each array once.
+Space: O(1) – we only use a few variables (i, j, satisfied).
